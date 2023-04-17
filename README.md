@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **JorgeCapillo/jorgecapillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## My portfolio 👨‍💻
+[jorgetoloza.co](https://jorgetoloza.co)
+
+## Email 📧
+[jorgetloza@gmail.com](mailto:jorgetloza@gmail.com)  
+
+## Social 📱
+[Instagram @jorgecapillo](https://instagram.com/jorgecapillo)  
+[Twitter @jorgecapillo](https://twitter.com/jorgecapillo)  
+[Linkedin @jorgetoloza](https://linkedin.com/in/jorgetoloza)  
+[Dribbble @jorgecapillo](https://dribbble.com/jorgecapillo)  
+[Behance @jorgecapillo](https://behance.net/jorgecapillo)  
+[Savee @jorgecapillo](https://savee.it/jorgecapillo)  
